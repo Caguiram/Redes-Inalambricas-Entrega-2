@@ -8,7 +8,7 @@ Proyecto: Redes Inalámbricas (Generación y Clasificación de Datos)
 
 ## Integrantes
 
-### CRISTIANO AGUIRRE RAMÍREZ
+### CRISTIAN AGUIRRE RAMÍREZ
 ### ANGIE LEGUIZAMÓN BUITRAGO
 ### YENNIFER OFELIA MALAGUERA VASCO
 ### NELSON DAVID VARGAS LÓPEZ
