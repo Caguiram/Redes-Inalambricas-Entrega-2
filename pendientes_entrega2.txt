@@ -1,6 +1,5 @@
 PROYECTO: Redes Inalambricas - Monitoreo de saturacion y consumo de ancho de banda
 ENTREGA 2 - SEMANA 5 (version preliminar)
-Autor: Sonia Cruz Reyes
 
 --------------------------------------------------
 1. QUE YA ESTA TERMINADO
