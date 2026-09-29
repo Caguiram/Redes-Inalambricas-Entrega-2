@@ -42,7 +42,7 @@ ENTREGA 2 - SEMANA 5 (version preliminar)
 
 - Revisar si el catalogo de dispositivos necesita poder generarse con
   mas de 7 tipos (actualmente createDeviceTypesFile limita el maximo
-  al tamano fijo del arreglo interno DEVICE_TYPES).
+  al tamaño fijo del arreglo interno DEVICE_TYPES).
 
 - Pulir la documentacion Javadoc de GenerateInfoFiles en los metodos
   de compatibilidad (createProductsFile, createSalesManInfoFile,
